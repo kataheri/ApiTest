@@ -1,4 +1,4 @@
-name: Web and API Automation workflow
+name: CI/CD API Automation workflow
 
 on:
   push:
